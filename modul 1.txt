@@ -1,0 +1,62 @@
+  
+                                             modulo-1
+
+       1).what is software?what is software engineering?
+   ans=  software is set of program.
+        --> Software engineering is the process of developing, testing and deploying computer 
+             applications to solve real-world problems by adhering to a set of engineering principles
+             and best practices.
+
+      2).explain types of software?
+    --)  two main type software was first 1)application software
+                                                                    2)system softeare
+
+      3).what is sdlc?explain is pase of sdlc?
+     --)SDLC= SOFTWARE  DEVELOPMENT LIFE CYCLE
+     --) S/W=requirment
+         S/W=anaylysis
+         S/W=designing
+         S/W=development
+         S/W=testing or tester
+         S/W=maintance
+       
+      4).what is dfd? create a dfd diagram on flipkart?
+     --)DFD=data floaw diagram.
+     --)           DIAGRAM  OF FLIPCART
+         step1=start
+         step2=login
+         step3=serach item
+         step4=buy item
+         step5=make order
+         step6=choose payment method
+         step7=make payment
+         step8=close    
+    
+      5).what is flow chart  ? create a flow chart to make addition of two numbers?
+     --)flow chart is a pictorial representation of alogorithms.
+     --)          TWO NUMBER FLOW CHART
+         step1=start
+         step2=decalare variables num1,num2.
+         step3=read a value for num1,num2.
+         step4=add nyum1,num2 and as-sign the result to a variable sum.
+         step5=display sum
+         step6=stop    
+      
+      6).what is use case of diagram?create a use -case on bill payment on paytm?
+     --) use case of diagram is a describe  the high -leval function and scop of a system
+     --)          USE- CASE ON BILL PAYMENT
+        step1=start
+        step2=select bill type
+        step3=scan bill/enter  a bill number
+        step4=  choose payment method
+                    1)by cash
+       	2)by credit
+      	3)by debit
+        step5=make payment
+        step6=stop
+           
+
+
+
+
+
